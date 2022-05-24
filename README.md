@@ -1,11 +1,11 @@
 ![Banner](https://raw.githubusercontent.com/mzainakmal/mzainakmal/master/profilebanner.png)
 
-I’m a fresh graduate mathematics student from Bandung Institute of Technology. I have a strong interest in tech world, computer vision, artificial intelligence, and programming. I love learning new things especially computer vision or programming related. Doing personal projects has been my favourite way to learn ever since I start learning programming. Most of my personal projects uploaded to Github are data science and computer vision related, but I also have been learning quite a few about backend programming lately since this field also caught my interest.
+I’m a fresh graduate mathematics student from Bandung Institute of Technology. I have a strong interest in tech world, computer vision, artificial intelligence, and programming. I love learning new things especially computer vision, data, or programming related. Doing personal projects has been my favourite way to learn ever since I start learning programming. Most of my personal projects uploaded to Github are data science and computer vision related, but I also have been learning quite a few about backend programming lately since this field also caught my interest.
 
 I am now looking to further develop and use my skills in industry placement, especially in programming, computer vision, or developing any AI based technology, whether it is a system, a hardware, or anything in between.
 
-- 🌱 I’m currently using and (always) learning Python, and C++.
-- 🔭 I’m currently working on understanding more and more computer vision algorithm and learnign to become a better programmer
+- 🌱 I’m currently using and (always) learning Python, SQL, and C++.
+- 🔭 I’m currently working on understanding more and more computer vision and data related algorithm and learnign to become a better programmer and data analyst/scientist
 - 🏆 I dream of becoming a major player in technology development
 
 <!--
